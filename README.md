@@ -67,6 +67,17 @@ map shift+page_up   kitten smart_scroll.py scroll_page_up   shift+page_up
 map shift+page_down kitten smart_scroll.py scroll_page_down shift+page_down
 ```
 
+The first argument (after `smart_scroll.py`)
+can technically be any Kitty action that does not require arguments.
+That action will be invoked without arguments
+when the key is pressed while the normal screen is active.
+
+The second argument specifies a key.
+This key will be sent when the mapped key is pressed
+while the application screen is active.
+It may be the same key that is used to activate the mapping,
+or a different one if you so desire.
+
 
 # License
 
