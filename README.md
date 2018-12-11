@@ -42,6 +42,11 @@ they send a keystroke to the running application.
       bind -T copy-mode S-PageDown send-keys -X page-down
 
 
+# Minimum requirements
+
+Kitty 0.13.0 or higher.
+
+
 # Installation
 
 * Copy or symlink `smart_scroll.py`
