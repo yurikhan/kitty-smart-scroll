@@ -2,3 +2,5 @@ map shift+up        kitten smart_scroll.py scroll_line_up   shift+up
 map shift+down      kitten smart_scroll.py scroll_line_down shift+down
 map shift+page_up   kitten smart_scroll.py scroll_page_up   shift+page_up
 map shift+page_down kitten smart_scroll.py scroll_page_down shift+page_down
+map ctrl+shift+home kitten smart_scroll.py scroll_home      ctrl+shift+home
+map ctrl+shift+end  kitten smart_scroll.py scroll_end       ctrl+shift+end
