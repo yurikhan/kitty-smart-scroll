@@ -44,7 +44,7 @@ they send a keystroke to the running application.
 
 # Minimum requirements
 
-Kitty 0.13.0 or higher.
+Kitty 0.24.0 or higher.
 
 
 # Installation
